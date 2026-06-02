@@ -143,13 +143,13 @@ RESTful methods and proper status handling were an important part of the project
 ## 1. Clone Repository
 
 ```bash
-git clone https://github.com/sidd-sharma22/Decodelabs-FullStackDev.git
+git clone https://github.com/sidd-sharma22/decodelabs-fullstack-project3
 ```
 
 ## 2. Open Project Folder
 
 ```bash
-cd Decodelabs-FullStackDev\Project-3
+cd decodelabs-fullstack-project3
 ```
 
 ## 3. Create Virtual Environment
